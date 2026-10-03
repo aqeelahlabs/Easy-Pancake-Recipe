@@ -4,7 +4,7 @@ A simple recipe web page with a list of ingredients, step-by-step instructions a
 
 ## Live Demo
 
-[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+https://aqeelahlabs.github.io/Easy-Pancake-Recipe/
 
 ## Features
 
