@@ -28,7 +28,7 @@ A simple recipe web page with a list of ingredients, step-by-step instructions a
 
 1. Clone the repository:
 ```
-   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+(https://github.com/aqeelahlabs/Easy-Pancake-Recipe.git)
 ```
 2. Open `index.html` in your browser.
 
