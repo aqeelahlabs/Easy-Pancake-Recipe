@@ -1,26 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Two Minute Noodles Recipe</title>
-    <meta charset="UTF-8">
-  </head>
-  <body>
-    <h1>Two Minute Noodles Recipe</h1>
-    <p>A quick and easy noodle dish you can make in just a few minutes.</p>
-    <h2>Ingredients</h2>
-    <ul>
-      <li>Noodle packet</li>
-      <li>Boiling water</li>
-      <li>Spices</li>
-      <li>Salt</li>
-    </ul>
-    <h2>Instructions</h2>
-    <ol>
-      <li>Boil water in a pot</li>
-      <li>Put noodles in the pot</li>
-      <li>Cook noodles till done</li>
-      <li>Add your spices</li>
-    </ol>
-    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Two minute noodles">
-  </body>
-</html>
+# Pancake Recipe
+
+A simple recipe web page with a list of ingredients, step-by-step instructions and an image. Built as part of the freeCodeCamp curriculum.
+
+## Live Demo
+
+[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+
+## Features
+
+- A page title and short introduction
+- An "Ingredients" section using an unordered list
+- An "Instructions" section using an ordered list for the steps
+- An image with descriptive `alt` text
+
+## What I Practised
+
+- Structuring a basic HTML5 page
+- Creating a heading hierarchy with `h1` and `h2`
+- Building unordered (`ul`) and ordered (`ol`) lists
+- Adding an image with the `img` element and `alt` attribute
+
+## Built With
+
+- HTML5
+
+## Run It Locally
+
+1. Clone the repository:
+```
+   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+```
+2. Open `index.html` in your browser.
+
+## Author
+
+Aqeelah, [@aqeelahlabs](https://github.com/aqeelahlabs)
